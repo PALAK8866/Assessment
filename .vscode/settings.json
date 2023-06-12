@@ -1,0 +1,27 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[xml]": {
+      "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "cSpell.words": ["formdata", "Formik", "Oticons", "persistor", "Recents", "toastify", "Videogames"],
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "editor.autoClosingDelete": "always",
+    "prettier.resolveGlobalModules": true,
+    "prettier.quoteProps": "preserve",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    },
+    "files.eol": "\n"
+  }
+  
