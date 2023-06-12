@@ -1,0 +1,17 @@
+.anchorLink {
+  text-decoration: none;
+  color: black;
+}
+
+.pageHeader {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+
+.subHeader {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
